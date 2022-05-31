@@ -19,7 +19,7 @@ public class AppBar extends JPanel {
 	private JLabel button, button2, button3;
 	
 	public AppBar() {
-		icon1 = new ImageIcon("./Resources/calculator.png");
+		icon1 = new ImageIcon(System.getProperty("user.home") + "\\Desktop\\ObJot-v1.0.0\\resources\\calculator.png");
 		button = new JLabel(icon1);
 		button2 = new JLabel("Turn OFF");
 		button3 = new JLabel("Discord");

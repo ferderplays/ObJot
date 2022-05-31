@@ -13,7 +13,7 @@ public class MainWindow {
 	private static JFrame frame = new JFrame();
 	
 	public MainWindow() {
-		frame.setTitle("ObJot v-test-0.0.1");
+		frame.setTitle("ObJot v1.0.0");
 		frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
 		frame.setUndecorated(true);
 		frame.add(new Content());

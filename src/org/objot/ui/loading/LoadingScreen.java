@@ -14,7 +14,7 @@ public class LoadingScreen extends JFrame {
 	
 	public LoadingScreen() {
 		
-		loader = new ImageIcon("./Resources/loading.gif");
+		loader = new ImageIcon(System.getProperty("user.home") + "\\Desktop\\ObJot-v1.0.0\\resources\\loading.gif");
 		label = new JLabel(loader);
 		
 		this.setUndecorated(true);
