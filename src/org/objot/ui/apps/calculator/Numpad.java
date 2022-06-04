@@ -18,6 +18,8 @@ public class Numpad extends JPanel {
         num9 = new JLabel("9");
 
         this.setLayout(new GridLayout(3, 3));
+        this.setBackground(new Color(15, 15, 15));
+        this.setForeground(Color.WHITE);
         this.add(num1);
         this.add(num2);
         this.add(num3);

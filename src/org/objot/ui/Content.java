@@ -6,9 +6,15 @@ import java.awt.GridLayout;
 
 import javax.swing.*;
 
-public class Content extends JPanel {
+public class Content {
+
+	public static JPanel panel = new JPanel();
 	public Content() {
-		this.setBackground(Color.CYAN);
-		this.add(new MainScreen(), BorderLayout.CENTER);
+		panel.setBackground(Color.CYAN);
+	}
+
+	public static void changeBgColor(Integer r, Integer g, Integer b) {
+		Color color = new Color(r, g, b);
+		panel.setBackground(color);
 	}
 }
