@@ -2,6 +2,10 @@
 
 Operating system made in Java, using javax.swing and my java coding knowledge
 
+### How to customize?
+
+> 1. click on the "settings", and click on "colors"
+
 ### How to install?
 
 <details>
