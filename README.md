@@ -3,6 +3,8 @@
 
 Operating system made in Java, using javax.swing and my java coding knowledge
 
+<a href="https://github.com/ferderplays/ObJot/releases/download/v1.0.2/ObJot-v1.0.2.zip">Latest Release</a>
+
 ### How to customize?
 
 > 1. click on the "settings", and click on "colors"
