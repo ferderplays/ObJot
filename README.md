@@ -1,4 +1,5 @@
 # ObJot
+<img src="https://img.shields.io/github/downloads/ferderplays/ObJot/total?color=green"> <img src="https://img.shields.io/github/repo-size/ferderplays/ObJot"> <img src="https://img.shields.io/tokei/lines/github/ferderplays/ObJot?color=lightcoral&label=lines%20of%20code">
 
 Operating system made in Java, using javax.swing and my java coding knowledge
 
